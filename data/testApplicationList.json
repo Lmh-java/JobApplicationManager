@@ -1,0 +1,25 @@
+{
+    "name": "ApplicationPortfolio",
+    "applications": [
+        {
+            "followUpDate": 61661894400000,
+            "isResearchApplication": false,
+            "organization": "Google",
+            "submitDate": 61661289600000,
+            "position": "SWE",
+            "id": "f84a42fb-f603-44b7-ae02-7b46896e9885",
+            "status": 0,
+            "infoLink": "https://google.com"
+        },
+        {
+            "followUpDate": 61536614400000,
+            "isResearchApplication": true,
+            "organization": "Mars Lab",
+            "submitDate": 61536009600000,
+            "position": "RA",
+            "id": "560cf001-af06-438c-9478-db0355f4b40d",
+            "status": 2,
+            "infoLink": "https://youtube.com"
+        }
+    ]
+}
